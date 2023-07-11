@@ -19,7 +19,7 @@ body{
   padding: 20px;
   background: #73ABCF;
   box-shadow: 4px 4px #fff;
-  border-radius: 7%;
+  border-radius: 12px;
   display: flex;
  flex-direction: column;
  
@@ -32,7 +32,7 @@ body{
 }
 img{
   width: 200px;
-  border-radius: 8px;
+  border-radius: 50%;
  
 }
 #about{
