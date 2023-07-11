@@ -16,13 +16,15 @@ body{
 }
 #main-content{
   width: 80%;
-  max-width: 500px;
-  padding: 20px;
+  max-width: 1000px;
+  padding: 30px;
   background: #73ABCF;
   box-shadow: 4px 4px #fff;
   border-radius: 12px;
   display: flex;
- flex-direction: column;
+  flex-direction: column;
+  font-size: 140%;
+  line-height: 170%;
  
 }
 #avata{
@@ -34,9 +36,13 @@ body{
 img{
   width: 200px;
   border-radius: 50%;
- 
+  
 }
 #about{
   width: 100%;
   display: block;
+}
+
+#about img{
+  width: 20px;
 }
