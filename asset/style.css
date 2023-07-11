@@ -16,6 +16,7 @@ body{
 }
 #main-content{
   width: 80%;
+  max-width: 500px;
   padding: 20px;
   background: #73ABCF;
   box-shadow: 4px 4px #fff;
