@@ -46,3 +46,15 @@ img{
 #about img{
   width: 20px;
 }
+
+.btn {
+  display: block;
+  width: calc(100%);
+  margin: auto;
+  background: #7999D9;
+  text-decoration: none;
+  text-align: center;
+  margin-bottom: 8px;
+  border-radius: 10px;
+  color: #000000;
+}
